@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "csv-writer": "^1.6.0",
+    "ethereum-tx-decoder": "^3.0.0",
+    "ethers": "^5.5.1"
+  }
+}
